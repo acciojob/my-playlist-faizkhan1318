@@ -16,7 +16,7 @@
             text-decoration: none;
             background-color: white;
         }
-        .player-one{
+        .player_one{
             border: 2px solid black;
             border-radius: 10px;
             background: white;
@@ -24,10 +24,10 @@
             margin-left: 130px;
             margin-right: 130px;
         }
-        .player-two audio{
+        .player_two audio{
             width: 620px;
             background-color: white;
         }
-        .player-two{
+        .player_two{
             background-color: white;
         }
